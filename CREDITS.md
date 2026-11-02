@@ -37,3 +37,7 @@ Photo 2: Striker9498, CC0. https://commons.wikimedia.org/?curid=165136423
 cards/e0b16c7c80cf46c8fc3ad0b6a5c95f38629c24586a4b2f21917a609bfedc2e7c.jpg
 
 Photo 3: Striker9498, CC0. https://commons.wikimedia.org/?curid=191420445
+
+cards/759d607a7b743467976719230c2e110c17a705e827b739469778384bc5a876a6.jpg
+
+Photo 4: Enigma7seven, CC BY-SA 3.0. https://commons.wikimedia.org/?curid=8794338 https://creativecommons.org/licenses/by-sa/3.0 Photo scaled without cropping; text added separately. Card 4 released under CC BY-SA 3.0.
