@@ -25,3 +25,7 @@ Photo: Izzatfikry99, “Myeongdong street.jpg” (25 June 2026), Wikimedia Commo
 cards/f9559b193668f2b28be390864e62ce88fb16c66f0b4f6047fac62ea6fc337e83.jpg
 
 Photo: Qhairy, CC BY 4.0, cropped. https://commons.wikimedia.org/wiki/File:Seoul_Forest_Walk_Path.jpg https://creativecommons.org/licenses/by/4.0
+
+cards/7d655bffbba352348d3e93e3672d669f96176de9f2ff40551706b0aa3a4f0c10.jpg
+
+Photo 1: Christian Bolz, CC BY-SA 4.0. https://commons.wikimedia.org/?curid=53782019 https://creativecommons.org/licenses/by-sa/4.0 Photo scaled without cropping; text added separately. Card 1 released under CC BY-SA 4.0.
