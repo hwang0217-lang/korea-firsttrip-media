@@ -33,3 +33,7 @@ Photo 1: Christian Bolz, CC BY-SA 4.0. https://commons.wikimedia.org/?curid=5378
 cards/a48f0121a9828f1894d086d23202f945eb818656e81166d0be6498b861edd139.jpg
 
 Photo 2: Striker9498, CC0. https://commons.wikimedia.org/?curid=165136423
+
+cards/e0b16c7c80cf46c8fc3ad0b6a5c95f38629c24586a4b2f21917a609bfedc2e7c.jpg
+
+Photo 3: Striker9498, CC0. https://commons.wikimedia.org/?curid=191420445
