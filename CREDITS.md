@@ -29,3 +29,7 @@ Photo: Qhairy, CC BY 4.0, cropped. https://commons.wikimedia.org/wiki/File:Seoul
 cards/7d655bffbba352348d3e93e3672d669f96176de9f2ff40551706b0aa3a4f0c10.jpg
 
 Photo 1: Christian Bolz, CC BY-SA 4.0. https://commons.wikimedia.org/?curid=53782019 https://creativecommons.org/licenses/by-sa/4.0 Photo scaled without cropping; text added separately. Card 1 released under CC BY-SA 4.0.
+
+cards/a48f0121a9828f1894d086d23202f945eb818656e81166d0be6498b861edd139.jpg
+
+Photo 2: Striker9498, CC0. https://commons.wikimedia.org/?curid=165136423
