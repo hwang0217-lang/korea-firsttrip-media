@@ -41,3 +41,7 @@ Photo 3: Striker9498, CC0. https://commons.wikimedia.org/?curid=191420445
 cards/759d607a7b743467976719230c2e110c17a705e827b739469778384bc5a876a6.jpg
 
 Photo 4: Enigma7seven, CC BY-SA 3.0. https://commons.wikimedia.org/?curid=8794338 https://creativecommons.org/licenses/by-sa/3.0 Photo scaled without cropping; text added separately. Card 4 released under CC BY-SA 3.0.
+
+cards/bd67b719f3e5f21b8d592064273b1ec3b212f493cb149c419de1573d40e74762.jpg
+
+Photo 5: CartoonChess, CC BY-SA 4.0. https://commons.wikimedia.org/?curid=133125624 https://creativecommons.org/licenses/by-sa/4.0 Photo scaled without cropping; text added separately. Card 5 released under CC BY-SA 4.0.
