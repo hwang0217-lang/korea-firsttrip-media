@@ -53,3 +53,7 @@ Internal photo record: CC0. https://commons.wikimedia.org/wiki/File:Gwanghwamun_
 cards/de1ce3f6db1676d1e9ba6c218ffb75a79b78f19d218860fef48da422b19bcd1a.jpg
 
 Internal photo record: CC0. https://commons.wikimedia.org/wiki/File:Gyeongbokgung-Y.JPG
+
+cards/7804affabe71f5369b669a6c73517a9049c3b7af7f8bba85014ee8972e92c750.jpg
+
+Internal photo record: CC0. https://commons.wikimedia.org/wiki/File:Gyeongbokgung(palace)_Geunjeongjeon(hall).jpg
