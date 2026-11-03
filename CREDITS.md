@@ -61,3 +61,7 @@ Internal photo record: CC0. https://commons.wikimedia.org/wiki/File:Gyeongbokgun
 cards/2bf4e30fc76ae37581048da0bc70707d84ed412ec6fc58f3d8b0ea13fe1ef2c3.jpg
 
 Photo 4: Kim Dae Jeung, CC0. https://commons.wikimedia.org/wiki/File:Gyeonghoeru_1.jpg Full photo scaled; text added.
+
+cards/c3e7a9856dd1abd0692a066989557e38e257cc920a8f73dd3f8df4fa18191da0.jpg
+
+Internal photo record: CC0. https://commons.wikimedia.org/wiki/File:Hyangwonjeong_1.jpg
