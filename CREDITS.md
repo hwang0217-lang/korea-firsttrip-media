@@ -57,3 +57,7 @@ Internal photo record: CC0. https://commons.wikimedia.org/wiki/File:Gyeongbokgun
 cards/7804affabe71f5369b669a6c73517a9049c3b7af7f8bba85014ee8972e92c750.jpg
 
 Internal photo record: CC0. https://commons.wikimedia.org/wiki/File:Gyeongbokgung(palace)_Geunjeongjeon(hall).jpg
+
+cards/2bf4e30fc76ae37581048da0bc70707d84ed412ec6fc58f3d8b0ea13fe1ef2c3.jpg
+
+Photo 4: Kim Dae Jeung, CC0. https://commons.wikimedia.org/wiki/File:Gyeonghoeru_1.jpg Full photo scaled; text added.
