@@ -49,3 +49,7 @@ Photo 5: CartoonChess, CC BY-SA 4.0. https://commons.wikimedia.org/?curid=133125
 cards/26f19aa9077f1362cebbe151a4d17fccff0402fbcc7d7cac4d5446835097da48.jpg
 
 Internal photo record: CC0. https://commons.wikimedia.org/wiki/File:Gwanghwamun_December_2023.jpg
+
+cards/de1ce3f6db1676d1e9ba6c218ffb75a79b78f19d218860fef48da422b19bcd1a.jpg
+
+Internal photo record: CC0. https://commons.wikimedia.org/wiki/File:Gyeongbokgung-Y.JPG
